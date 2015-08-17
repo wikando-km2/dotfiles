@@ -1,15 +1,11 @@
 [user]
-	name = DaWen
-	email = dan.wendlandt@gmail.com
+	name = Kevin Mauel
+	email = mauel@auxmoney.com
 [github]
-	user = da-wen
+	user = bavragor
 [core]
 	autocrlf = input
 	excludesfile = ~/.gitignore_global
-[url "https://"]
-	insteadOf = git://
-[url "git://"]
-	insteadOf = https://
 [filter "media"]
 	required = true
 	clean = git media clean %f
