@@ -1,8 +1,8 @@
 [user]
 	name = Kevin Mauel
-	email = kevin.mauel2+github@gmail.com
+	email = k.mauel@wikando.de
 [github]
-	user = bavragor
+	user = wikando-km
 [core]
 	autocrlf = input
 	excludesfile = ~/.gitignore_global
